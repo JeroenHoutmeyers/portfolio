@@ -35,8 +35,9 @@ $on-laptop:        800px;
 //     }
 // }
 
-// Import partials from the `minima` theme.
-@import "minima";
 body {
   background: #000;
 }
+
+// Import partials from the `minima` theme.
+@import "minima";
